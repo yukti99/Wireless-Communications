@@ -1,0 +1,73 @@
+
+------------------------------FREE SPACE MODEL ---------------------------------------
+
+1. Model parameters: 
+
+Distance = 7000.0 ft
+Frequency = 0.0015 MHz
+Transmitter Gain = 10.0dBi
+Receiver Gain = 0.0 dBi
+Loss Factor = 1.0
+
+MEDIAN PATH LOSS = 0.0017980763520723472
+***************************************************************************
+2. Model parameters: 
+
+Distance = 5000.0 ft
+Frequency = 881.52 MHz
+Transmitter Gain = 8.0dBi
+Receiver Gain = 0.0 dBi
+Loss Factor = 1.0
+
+MEDIAN PATH LOSS = 5.021504774578714E8
+***************************************************************************
+3. Model parameters: 
+
+Distance = 2034.0 ft
+Frequency = 568.21 MHz
+Transmitter Gain = 1 dBi
+Receiver Gain = 1 dBi
+Loss Factor = 1
+
+MEDIAN PATH LOSS = 2.178457911628493E8
+***************************************************************************
+4. Model parameters: 
+
+Distance = 8501.0 ft
+Frequency = 442.26 MHz
+Transmitter Gain = 3.0dBi
+Receiver Gain = 9.0 dBi
+Loss Factor = 1.0
+
+MEDIAN PATH LOSS = 1.4545373802997428E8
+***************************************************************************
+5. Model parameters: 
+
+Distance = 6873.0 ft
+Frequency = 925.87 MHz
+Transmitter Gain = 5.0dBi
+Receiver Gain = 29.0 dBi
+Loss Factor = 0.9
+
+MEDIAN PATH LOSS = 2366272.4813221325
+***************************************************************************
+6. Model parameters: 
+
+Distance = 19001.0 ft
+Frequency = 737.9 MHz
+Transmitter Gain = 30.0dBi
+Receiver Gain = 15.0 dBi
+Loss Factor = 1.0
+
+MEDIAN PATH LOSS = 1013858.7829982532
+***************************************************************************
+7. Model parameters: 
+
+Distance = 5000.0 ft
+Frequency = 881.52 MHz
+Transmitter Gain = 1 dBi
+Receiver Gain = 1 dBi
+Loss Factor = 1
+
+MEDIAN PATH LOSS = 3.1683553178627973E9
+***************************************************************************

@@ -1,0 +1,99 @@
+
+------------------------------TWO RAY PATH LOSS MODEL ---------------------------------------
+
+1. Model parameters: 
+
+Distance = 5000.0 ft
+Frequency = 881.52 MHz
+Transmitter Gain = 8.0dBi
+Receiver Gain = 0.0 dBi
+Loss Factor = 1.0 dBi
+Transmitter Height = 100.0 ft
+Receiver Height = 5.0 ft
+Direct Distance = 900.0 ft
+Reflected Distance = 1200.0 ft
+Reflection Coefficient = -1.0
+
+TWO RAY MODEL MEDIAN PATH LOSS = 3.962232981152783E8
+
+***************************************************************************
+2. Model parameters: 
+
+Distance = 2034.0 ft
+Frequency = 568.21 MHz
+Transmitter Gain = 0.0dBi
+Receiver Gain = 0.0 dBi
+Loss Factor = 1.0 dBi
+Transmitter Height = 200.0 ft
+Receiver Height = 150.0 ft
+Direct Distance = 670.0 ft
+Reflected Distance = 1010.0 ft
+Reflection Coefficient = -1.0
+
+TWO RAY MODEL MEDIAN PATH LOSS = 1.003316088865777
+
+***************************************************************************
+3. Model parameters: 
+
+Distance = 8501.0 ft
+Frequency = 442.26 MHz
+Transmitter Gain = 3.0dBi
+Receiver Gain = 9.0 dBi
+Loss Factor = 2.0 dBi
+Transmitter Height = 150.0 ft
+Receiver Height = 30.0 ft
+Direct Distance = 402.0 ft
+Reflected Distance = 889.0 ft
+Reflection Coefficient = -1.0
+
+TWO RAY MODEL MEDIAN PATH LOSS = 3.254505672374139E7
+
+***************************************************************************
+4. Model parameters: 
+
+Distance = 19001.0 ft
+Frequency = 737.9 MHz
+Transmitter Gain = 12.0dBi
+Receiver Gain = 15.0 dBi
+Loss Factor = 1.0 dBi
+Transmitter Height = 460.0 ft
+Receiver Height = 100.0 ft
+Direct Distance = 829.0 ft
+Reflected Distance = 1200.0 ft
+Reflection Coefficient = -1.0
+
+TWO RAY MODEL MEDIAN PATH LOSS = 1.5714241679368712
+
+***************************************************************************
+5. Model parameters: 
+
+Distance = 5020.0 ft
+Frequency = 425.87 MHz
+Transmitter Gain = 7.0dBi
+Receiver Gain = 29.0 dBi
+Loss Factor = 1.9 dBi
+Transmitter Height = 600.0 ft
+Receiver Height = 120.0 ft
+Direct Distance = 500.0 ft
+Reflected Distance = 600.0 ft
+Reflection Coefficient = -1.0
+
+TWO RAY MODEL MEDIAN PATH LOSS = 1.2774046201036822
+
+***************************************************************************
+6. Model parameters: 
+
+Distance = 6873.0 ft
+Frequency = 925.87 MHz
+Transmitter Gain = 5.0dBi
+Receiver Gain = 29.0 dBi
+Loss Factor = 1.9 dBi
+Transmitter Height = 600.0 ft
+Receiver Height = 120.0 ft
+Direct Distance = 500.0 ft
+Reflected Distance = 600.0 ft
+Reflection Coefficient = -1.0
+
+TWO RAY MODEL MEDIAN PATH LOSS = 1.9161823862146408
+
+***************************************************************************

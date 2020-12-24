@@ -1,0 +1,104 @@
+
+------------------------------LOG DISTANCE PATH LOSS MODELS ---------------------------------------
+
+1. Model parameters: 
+
+N = 2.0
+Environment = Free Space
+Close-in distance = 5910.0
+Distance = 5000.0 ft
+Frequency = 881.52 MHz
+Transmitter Gain = 8.0 dBi
+Receiver Gain = 0.0 dBi
+Loss Factor = 1.0
+Binary Change factor = 4.0
+
+LOG-DISTANCE MODEL MEDIAN PATH LOSS in Decibels = 87.00833879967347
+
+LOG-NORMAL SHADOWING MODEL MEDIAN PATH LOSS in Decibels = 91.00833879967347
+
+***************************************************************************************
+2. Model parameters: 
+
+N = 3.0
+Environment = Urban Cellular Radio
+Close-in distance = 6700.0
+Distance = 6873.0 ft
+Frequency = 9250.87 MHz
+Transmitter Gain = 5.0 dBi
+Receiver Gain = 20.0 dBi
+Loss Factor = 1.9
+Binary Change factor = 1.0
+
+LOG-DISTANCE MODEL MEDIAN PATH LOSS in Decibels = 96.0891251711051
+
+LOG-NORMAL SHADOWING MODEL MEDIAN PATH LOSS in Decibels = 97.0891251711051
+
+***************************************************************************************
+3. Model parameters: 
+
+N = 4.0
+Environment = Obstructed Building
+Close-in distance = 9000.0
+Distance = 2034.0 ft
+Frequency = 5680.21 MHz
+Transmitter Gain = 0.0 dBi
+Receiver Gain = 0.0 dBi
+Loss Factor = 1.0
+Binary Change factor = 2.0
+
+LOG-DISTANCE MODEL MEDIAN PATH LOSS in Decibels = 90.46077090802535
+
+LOG-NORMAL SHADOWING MODEL MEDIAN PATH LOSS in Decibels = 92.46077090802535
+
+***************************************************************************************
+4. Model parameters: 
+
+N = 1.0
+Close-in distance = 8199.0
+Distance = 8501.0 ft
+Frequency = 4420.26 MHz
+Transmitter Gain = 3.0 dBi
+Receiver Gain = 9.0 dBi
+Loss Factor = 2.0
+Binary Change factor = 3.0
+
+LOG-DISTANCE MODEL MEDIAN PATH LOSS in Decibels = 104.47586060099256
+
+LOG-NORMAL SHADOWING MODEL MEDIAN PATH LOSS in Decibels = 107.47586060099256
+
+***************************************************************************************
+5. Model parameters: 
+
+N = 3.0
+Environment = Urban Cellular Radio
+Close-in distance = 1410.0
+Distance = 1900.0 ft
+Frequency = 737.9 MHz
+Transmitter Gain = 12.0 dBi
+Receiver Gain = 15.0 dBi
+Loss Factor = 1.0
+Binary Change factor = 4.0
+
+LOG-DISTANCE MODEL MEDIAN PATH LOSS in Decibels = 59.354662420745186
+
+LOG-NORMAL SHADOWING MODEL MEDIAN PATH LOSS in Decibels = 63.354662420745186
+
+***************************************************************************************
+6. Model parameters: 
+
+N = 2.0
+Environment = Free Space
+Close-in distance = 6900.0
+Distance = 5020.0 ft
+Frequency = 425.87 MHz
+Transmitter Gain = 7.0 dBi
+Receiver Gain = 29.0 dBi
+Loss Factor = 1.9
+Binary Change factor = 2.0
+
+LOG-DISTANCE MODEL MEDIAN PATH LOSS in Decibels = 55.511446618179505
+
+LOG-NORMAL SHADOWING MODEL MEDIAN PATH LOSS in Decibels = 57.511446618179505
+
+***************************************************************************************
