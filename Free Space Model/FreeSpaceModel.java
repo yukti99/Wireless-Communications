@@ -5,7 +5,6 @@ B Two-Ray,
 C Log Distance PL models
 
 YUKTI KHURANA 
-2017UCP1234
 PART-A
 
 */
