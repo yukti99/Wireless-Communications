@@ -1,3 +1,4 @@
+WIRELESS COMMUNICATIONS - PATH LOSS MODEL IMPLEMENTATIONS
 PROBLEM STATEMENT
 
 Write separate programs to compute the median path loss for outdoor propagation for 

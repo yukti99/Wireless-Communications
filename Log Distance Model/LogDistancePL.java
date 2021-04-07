@@ -5,7 +5,6 @@ B Two-Ray,
 C Log Distance PL models
 
 YUKTI KHURANA 
-2017UCP1234
 PART-C
 
 This program implements two Models -  Log Distance Path Loss Model and Log Normal Shadow Model to calculate Median Path loss
